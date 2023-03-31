@@ -88,7 +88,7 @@ const QuestionDetails = () => {
   const Navigate = useNavigate();
   const User = useSelector((state) => (state.currentUserReducer))
   const location = useLocation()
-  const url = 'https://stack-overflow-aman.vercel.app'
+  const url = 'https://stack-overflow-aman.vercel.app/'
 
 
   const handlePostAns = (e, answerLength) => {
