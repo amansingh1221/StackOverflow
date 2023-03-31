@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Aman Singh/StackOverflow">
+  <a href="https://github.com/amansingh1221/StackOverflow">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,18 +10,18 @@
     Get unstuck with our Stack Overflow clone - where knowledge meets community!
     <br/>
     <br/>
-    <a href="https://github.com/Aman Singh/StackOverflow"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/amansingh1221/StackOverflow"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Aman Singh/StackOverflow">View Demo</a>
+    <a href="https://github.com/amansingh1221/StackOverflow">View Demo</a>
     .
-    <a href="https://github.com/Aman Singh/StackOverflow/issues">Report Bug</a>
+    <a href="https://github.com/amansingh1221/StackOverflow/issues">Report Bug</a>
     .
-    <a href="https://github.com/Aman Singh/StackOverflow/issues">Request Feature</a>
+    <a href="https://github.com/amansingh1221/StackOverflow/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/Aman Singh/StackOverflow/total) ![Contributors](https://img.shields.io/github/contributors/Aman Singh/StackOverflow?color=dark-green) ![Forks](https://img.shields.io/github/forks/Aman Singh/StackOverflow?style=social) ![Stargazers](https://img.shields.io/github/stars/Aman Singh/StackOverflow?style=social) ![Issues](https://img.shields.io/github/issues/Aman Singh/StackOverflow) ![License](https://img.shields.io/github/license/Aman Singh/StackOverflow) 
+![Downloads](https://img.shields.io/github/downloads/amansingh1221/StackOverflow/total) ![Contributors](https://img.shields.io/github/contributors/amansingh1221/StackOverflow?color=dark-green) ![Forks](https://img.shields.io/github/forks/amansingh1221/StackOverflow?style=social) ![Stargazers](https://img.shields.io/github/stars/amansingh1221/StackOverflow?style=social) ![Issues](https://img.shields.io/github/issues/amansingh1221/StackOverflow) ![License](https://img.shields.io/github/license/amansingh1221/StackOverflow) 
 
 ## Table Of Contents
 
@@ -86,10 +86,10 @@ Use the above command on the server side to run server
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Aman Singh/StackOverflow/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/amansingh1221/StackOverflow/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/Aman Singh/StackOverflow/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/amansingh1221/StackOverflow/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -102,7 +102,6 @@ Contributions are what make the open source community such an amazing place to b
 ## Authors
 
 * **Aman Singh** - *Computer Science and Engineering student Student* - [Aman Singh](https://github.com/amansingh1221) - *Built Stack Overflow clone*
-
 
 
 
