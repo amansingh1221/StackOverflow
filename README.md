@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
-  <a href="./client/src/assets/logo1.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/amansingh1221/StackOverflow">
+    <img src="./client/src/assets/logo1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Stack OverFlow Clone</h3>
