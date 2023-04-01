@@ -137,7 +137,7 @@ const QuestionDetails = () => {
       {
         questionsList.data === null ? <h1>Loading...</h1> : <>
           {
-            questionsList.data.filter(question => question._id === id).map((question) => (<div key={question._id}>
+            questionsList.data.filter(question => question._id === id).map((question) => (<div key={question._id} className='ques'>
               <secton className='question-details-container'>
                 <h1>
                   {question.questionTitle}

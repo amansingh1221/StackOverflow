@@ -1,5 +1,5 @@
 .question-details-page{
-  width:69%;
+  width:100%;
   float:left;
   margin: 25px 0px;
   padding: 0px;
@@ -111,5 +111,8 @@
   line-height: 18px;
   white-space: pre-line;
 }
-
-
+/* 
+@media only screen and (max-width: 1000px) {
+  
+}
+ */

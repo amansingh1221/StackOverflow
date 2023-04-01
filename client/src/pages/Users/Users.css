@@ -2,21 +2,25 @@
   display: flex;
   flex-wrap: wrap;
 padding: 30px 0px;
-display: grid;
-grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
-gap: 24px;
+width:100% ;
 
+}
+.user-container{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
 }
 
 .user-profile-link{
   display: flex;
-
+margin: 3% 16px;
   align-items: center;
   justify-content: flex-start;
   text-decoration: none;
   color: black;
   padding-left: 10px;
-  width: 90%;
+  width: 16%;
+  min-width:150px;
   height: 60px;
   border: solid 3px rgb(137, 137, 137);
 }

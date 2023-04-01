@@ -1,6 +1,6 @@
 .user-details-container{
   width: 100%;
-  margin-top: 6%;
+  margin-top: 40px;
   display:flex;
   align-items: flex-start;
   justify-content: space-between;
@@ -10,6 +10,8 @@
 .user-details{
   display: flex;
   align-items: flex-start;
+  flex-wrap: wrap;
+  margin-top: 16px;
   
 }
 .user-name{

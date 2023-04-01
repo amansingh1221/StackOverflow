@@ -3,7 +3,7 @@
   background-color: #f1f2f3;
 }
 .ask-ques-container{
-  margin: auto;
+  margin: 0px 4%;
   max-width: 1200px;
 }
 .ask-ques-container h1{
@@ -31,7 +31,7 @@ margin-bottom: 0px;
   padding: 10px;
   border: solid 1px #0000003e;
   font-family: sans-serif;
-  width: 98%;
+  width: 96%;
   resize:vertical;
 }
 .review-btn{
