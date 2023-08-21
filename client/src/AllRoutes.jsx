@@ -8,6 +8,9 @@ import DisplayQuestion from './pages/Questions/DisplayQuestion'
 import Tags from './pages/Tags/Tags'
 import Users from './pages/Users/Users'
 import UserProfile from './pages/UserProfile/UserProfile'
+import About from './pages/About/About'
+import Products from './pages/Products/Products'
+import Fteams from './pages/Fteams/Fteams'
 
 
 const AllRoutes = () => {
@@ -21,6 +24,9 @@ const AllRoutes = () => {
       <Route path='/Tags' element={<Tags />} />
       <Route path='/Users' element={<Users />} />
       <Route path='/Users/:id' element={<UserProfile />} />
+      <Route path='/About' element={<About />} />
+      <Route path='/Products' element={<Products />} />
+      <Route path='/Fteams' element={<Fteams />} />
     </Routes>
   )
 }

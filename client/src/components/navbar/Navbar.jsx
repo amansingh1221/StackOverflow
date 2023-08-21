@@ -49,9 +49,9 @@ const Navbar = () => {
         <button className='nav-item  toggle' onClick={toggle}><img src={ham} alt='logo'></img></button>
         
         {
-          navbarOpen ? (<div className="navbar small-dis"><Link to='/about' className='nav-item nav-btn'>About</Link>
-        <Link to='/products' className='nav-item nav-btn'>Products</Link>
-        <Link to='/fteams' className='nav-item nav-btn'>For Teams</Link>
+          navbarOpen ? (<div className="navbar small-dis"><Link to='/About' className='nav-item nav-btn'>About</Link>
+        <Link to='/Products' className='nav-item nav-btn'>Products</Link>
+        <Link to='/Fteams' className='nav-item nav-btn'>For Teams</Link>
 
         <form>
           <input type='text' placeholder='Search...' />
@@ -64,9 +64,9 @@ const Navbar = () => {
             <button className='nav-item nav-links' onClick={handleLogout}>Log out</button>
           </>}</div>) : <></>
         }
-        <div className="large-dis navbar"><Link to='/about' className='nav-item nav-btn'>About</Link>
-        <Link to='/' className='nav-item nav-btn'>Products</Link>
-        <Link to='/fteams' className='nav-item nav-btn'>For Teams</Link>
+        <div className="large-dis navbar"><Link to='/About' className='nav-item nav-btn'>About</Link>
+        <Link to='/Products' className='nav-item nav-btn'>Products</Link>
+        <Link to='/Fteams' className='nav-item nav-btn'>For Teams</Link>
 
         <form>
           <input type='text' placeholder='Search...' />

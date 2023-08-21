@@ -3,7 +3,7 @@
   margin-top: 50px;
 }
 .tags-p{
-  margin:0px;
+  margin:5px 0px;
   font-size:15px
 }
 .tags-list-container{
@@ -28,4 +28,10 @@
   font-size: 14px;
   color: #323232;
   line-height: 17px;
+}
+.tagsc{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+
 }
